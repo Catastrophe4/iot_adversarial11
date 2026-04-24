@@ -16,7 +16,7 @@ EPOCHS = 5
 LR = 1e-3
 SEED = 42
 EPSILONS = [0.01, 0.03, 0.05]
-MODEL_TYPE = "lstm"   # "cnn" or "lstm"
+MODEL_TYPE = "lstm"   
 
 FEATURE_NAMES = [
     "flow_duration", "Header_Length", "Protocol Type", "Duration", "Rate",
