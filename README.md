@@ -15,7 +15,7 @@ All experiments were conducted using fixed random seeds and predefined configura
 
 
 
-
+Ubuntu-based
 Experimental Environment
 - GPU: NVIDIA GeForce RTX 5090, 32 GB VRAM
 - Python: 3.12.3
