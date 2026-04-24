@@ -15,7 +15,7 @@ LR = 1e-3
 SEED = 42
 NUM_WORKERS = 4
 EPSILONS = [0.01, 0.03, 0.05]
-MODEL_TYPE = "lstm"  # "cnn" or "lstm"
+MODEL_TYPE = "lstm"  
 
 
 def set_seed(seed: int) -> None:
